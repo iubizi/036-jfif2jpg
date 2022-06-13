@@ -17,4 +17,4 @@ for file in files:
         os.rename(file, name) # 改名
         print(name) # 打印名称
 
-
+input() # 看看结果
